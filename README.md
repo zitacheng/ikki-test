@@ -5,6 +5,9 @@
 ```
 node index.js testA/classique.tx testA/metada.txt
 ```
+> [!NOTE]
+> The csv file is named info.csv.
+
 - The folder testA contains the classic files and some error management example
 - The folder testB contains more than 3 columns and with more line data
 - The folder testC contains metada that is inccorect
