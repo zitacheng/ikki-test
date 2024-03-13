@@ -3,7 +3,7 @@
 ## How to execute the program: 
 
 ```
-node index.js testA/classique.tx testA/metada.txt
+node index.js testA/classique.txt testA/metada.txt
 ```
 > [!NOTE]
 > The csv file is named info.csv.
