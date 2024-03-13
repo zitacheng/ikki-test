@@ -1,0 +1,7 @@
+id,30,chaîne
+name,15,chaîne
+cn,10,chaîne
+val,5,chaîne
+reference,50,chaîne
+color,15,chaîne
+collection,50,chaîne

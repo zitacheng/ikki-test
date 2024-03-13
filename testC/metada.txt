@@ -1,0 +1,4 @@
+Date de naissance,10,test
+Prénom,15,chaîne
+Nom de famille,15,chaîne
+Poids,5,numérique

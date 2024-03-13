@@ -1,0 +1,7 @@
+Date de naissance,10,date
+Prénom,15,chaîne
+Nom de famille,15,chaîne
+Poids,5,numérique
+Date de décès,10,date
+Taille, 5,numérique,
+Ville, 10, chaîne
