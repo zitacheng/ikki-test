@@ -1,4 +1,6 @@
-# How to execute the program: 
+# This project generate a csv file based on a given data and metada files
+
+## How to execute the program: 
 
 ```
 node index.js testA/classique.tx testA/metada.txt
